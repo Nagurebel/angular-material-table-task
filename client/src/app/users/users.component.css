@@ -1,0 +1,15 @@
+.screen{
+  margin:5rem 14rem;
+  width: 60vw;
+  
+}
+table {
+  margin-top: 50px;
+  width: 100%;
+  overflow-y: hidden;
+}
+
+.td{
+  text-align: center;
+}
+

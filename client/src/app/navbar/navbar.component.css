@@ -1,0 +1,32 @@
+mat-toolbar {
+    flex: 1 0 auto;
+  }
+  mat-toolbar .move{
+  padding-left: 150px;
+  }
+  div {
+    background: rgb(147, 147, 229);
+  }
+  span{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: whitesmoke;
+  }
+  mat-list{
+    display: flex;
+    flex: 1 1 auto;
+  }
+  mat-list mat-list-item a{
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+  }
+  mat-list mat-list-item a:focus{
+    color: whitesmoke;
+  }
+
+  .navbar{
+    position: sticky;
+    top: 0rem;
+  }
