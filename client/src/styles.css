@@ -1,9 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 *{
     margin: 0rem;
-    padding: 0rem;
+    padding: 0rem; 
 }
-
-p{
-    background: rgb(147, 147, 229);
+body{
+    background-image: url("https://media.istockphoto.com/vectors/gray-abstract-background-vector-id990697446?k=20&m=990697446&s=612x612&w=0&h=WTppK6aV-hj0zM-xZV3_rvN7ULnFDvVuzAHieCCUt3o=");
+    background-repeat: no-repeat;
+background-size: cover; 
 }

@@ -1,12 +1,14 @@
+*{
+  background: rgb(147, 147, 229);
+}
+
 mat-toolbar {
     flex: 1 0 auto;
   }
   mat-toolbar .move{
   padding-left: 150px;
   }
-  div {
-    background: rgb(147, 147, 229);
-  }
+  
   span{
     font-size: 1.5em;
     font-weight: bold;
